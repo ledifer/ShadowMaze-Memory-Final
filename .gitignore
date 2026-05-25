@@ -1,0 +1,16 @@
+﻿## Visual Studio
+bin/
+obj/
+*.user
+*.suo
+.vs/
+*.DotSettings.user
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+build/
+bld/
+*.nupkg
+*.snk
+*.resx.lock
